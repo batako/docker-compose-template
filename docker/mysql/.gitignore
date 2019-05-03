@@ -1,0 +1,6 @@
+/conf.d/my.cnf
+/data/*
+!/data/.keep
+/log/*
+!/log/.keep
+mysql.env
